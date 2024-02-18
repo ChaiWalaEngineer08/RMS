@@ -1,6 +1,6 @@
 # AcademixTracker
 
-This repository contains the code for a Student Result Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The system allows administrators, faculty members, and students to perform various tasks related to managing student information, test scores, attendance, and more.
+This repository contains the code for a Student Result Management System developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The system allows administrators, faculty members, and students to perform various tasks related to managing student information, test scores, attendance, notices and more.
 
 ![Image1](https://user-images.githubusercontent.com/88606641/236372609-32ce786a-3beb-4619-a777-2a038e17408f.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/88606641/236372664-7d2af316-1d30-41e4-951a-7fd94923828f.png)
