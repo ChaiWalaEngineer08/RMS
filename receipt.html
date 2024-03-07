@@ -13,11 +13,12 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 		<script>
+			// PDF generation function is updated
 			function generatePDF() {
 			const element = document.getElementById('container_content');
 			var opt = {
                 margin:       -1,
-				  filename:     'MedicalReport.pdf',
+				  filename:     'HealthReport.pdf',
 				  image:        { type: 'jpeg', quality: 0.98 },
 				  html2canvas:  { scale: 2 },
 				  jsPDF:        { unit: 'in', format: 'letter', orientation: 'landscape' }
