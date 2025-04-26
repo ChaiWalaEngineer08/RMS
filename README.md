@@ -37,6 +37,5 @@ __7. `JWT` :__ JWT (JSON Web Token) is a popular open standard for securely tran
 10. Students can update their profile details and password in the profile section.
 11. Students can check their attendance, marks, and subject list.
 12. Error display feature available with form validation to provide a smooth user experience.
-13. The system features a modern UI design for an appealing and user-friendly interface.
 
 
